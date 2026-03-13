@@ -1,0 +1,19 @@
+﻿Loading data...
+Loaded 36532 training rows and 8854 test rows.
+Vectorizing text (TF-IDF)...
+Training Logistic Regression Model...
+Evaluating Model...
+Accuracy: 98.23%
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98      4585
+           1       0.98      0.98      0.98      4269
+
+    accuracy                           0.98      8854
+   macro avg       0.98      0.98      0.98      8854
+weighted avg       0.98      0.98      0.98      8854
+
+Saving Model and Vectorizer...
+Model saved to 'models/model.pkl'
+Vectorizer saved to 'models/vectorizer.pkl'
+Training completed successfully.
