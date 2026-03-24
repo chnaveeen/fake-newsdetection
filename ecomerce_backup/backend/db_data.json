@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "_id": "69abb44a9ba8ab461e1cec18",
+      "name": "Test User",
+      "email": "test@example.com"
+    }
+  ],
+  "products": [
+    {
+      "_id": "69abb3de0ecff8623705694b",
+      "name": "Premium Wireless Headphones",
+      "price": 249.99,
+      "description": "High-fidelity audio with active noise cancellation and 30-hour battery life. Experience sound like never before.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+    },
+    {
+      "_id": "69abb3de0ecff8623705694c",
+      "name": "Smart Watch Elite",
+      "price": 199.5,
+      "description": "Advanced health monitoring, GPS tracking, and a stunning OLED display wrapped in an aerospace-grade aluminum body.",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&q=80"
+    },
+    {
+      "_id": "69abb3de0ecff8623705694d",
+      "name": "Mechanical Keyboard Pro",
+      "price": 129,
+      "description": "Tactile switches, customizable RGB backlighting, and a premium aluminum frame for the ultimate typing experience.",
+      "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=500&q=80"
+    },
+    {
+      "_id": "69abb3de0ecff8623705694e",
+      "name": "Minimalist Desk Lamp",
+      "price": 89.99,
+      "description": "Adjustable color temperature, wireless charging base, and sleek modern design to elevate any workspace.",
+      "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?w=500&q=80"
+    }
+  ]
+}
